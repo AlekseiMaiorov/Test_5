@@ -43,3 +43,4 @@ obj
 **/StreamingAssets.meta
 
 Recordings/
+!Assets/Plugins/**
